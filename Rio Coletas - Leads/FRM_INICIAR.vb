@@ -21,7 +21,7 @@ Public Class FRM_INICIAR
 
 
         ' URL do raw
-        Dim url As String = "https://raw.githubusercontent.com/xKowalskyJR/Rio-Coletas/main/versao"
+        Dim url As String = "https://raw.githubusercontent.com/xKowalskyJR/Rio-Coletas/master/versao?token=GHSAT0AAAAAACRFBNLSYILEVCCYANICWKLEZRBGCFA"
 
         ' Usando WebClient para obter o conteúdo
         Dim client As New WebClient()
